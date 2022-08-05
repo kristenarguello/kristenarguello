@@ -1,4 +1,4 @@
-Oii, meu nome é Kristen. Estou no 1º semestre de Ciência da Computação na PUC-RS. Faço pequenos projetos em Java, Python e em HTML, sempre tentando aprender um pouco mais.
+Oii, meu nome é Kristen. Estou no 2º semestre de Ciência da Computação na PUC-RS. Faço pequenos projetos em Java, Python e em HTML, sempre tentando aprender um pouco mais.
 
 <div align="center">
   <a href="https://github.com/kristenarguello">
