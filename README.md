@@ -10,8 +10,10 @@ Oii, meu nome é Kristen. Estou no 3º semestre de Ciência da Computação na P
   <img align="center" alt="Kris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kris-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
   <img align="center" alt="Kris-javascript" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<!-- typescript, c#, .net, vue, react   -->
   <img align="center" alt="Kris-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Kris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
   
   ##
