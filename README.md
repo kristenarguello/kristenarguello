@@ -1,4 +1,4 @@
-Oii, meu nome é Kristen. Estou no 3º semestre de Ciência da Computação na PUC-RS. Faço pequenos projetos em Java, Python, HTML, Css e JavaScript, sempre tentando aprender um pouco mais.
+Oii, meu nome é Kristen. Estou no 4º semestre de Ciência da Computação na PUC-RS. Faço pequenos projetos em Java, Python, HTML, Css, JavaScript e em C, sempre tentando aprender um pouco mais.
 
 <div align="center">
   <a href="https://github.com/kristenarguello">
@@ -13,6 +13,7 @@ Oii, meu nome é Kristen. Estou no 3º semestre de Ciência da Computação na P
 <!-- typescript, c#, .net, vue, react   -->
   <img align="center" alt="Kris-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Kris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kris-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
 
 </div>
   
