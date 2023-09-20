@@ -5,5 +5,5 @@ Oii, me chamo Kristen. Estou no 4º semestre de Ciência da Computação na PUC-
   
  
   
-![Snake animation](https://github.com/kristenarguello/kristenarguello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{your_username}}/kristenarguello/blob/output/github-contribution-grid-snake.svg)
   
