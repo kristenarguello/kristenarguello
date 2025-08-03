@@ -12,6 +12,6 @@
 🔭 I'm always learning and looking to collaborate on impactful and technically engaging projects. Check out some of the things I’ve been working on below!
 
 📫 Feel free to reach out: 
-- [LinkedIn](https://www.linkedin.com/in/kristenarguello)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kristen-k-arguello)
+- [Email](mailto:kristenarguello20@gmail.com)
   
